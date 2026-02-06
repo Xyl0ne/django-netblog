@@ -1,4 +1,4 @@
-#Django-netBlog
+#django-netblog
 
 Levy S. Poyaoan
 
